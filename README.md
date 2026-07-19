@@ -31,7 +31,7 @@ cancellations, duplicates, and invalid entries.
    customers never returned after their first purchase
 4. **UK market accounts for 82.9% of revenue** — geographic 
    concentration represents a significant business risk
-5. **Return rate of 16.17%** significantly exceeds the retail industry 
+5. **Return rate of 15.99%** significantly exceeds the retail industry 
    average of 8–10%
 online-retail-sales-analysis/
 │
@@ -101,7 +101,7 @@ both exceed GitHub's 25MB file size limit.
 | Total Orders | 18,405 |
 | Unique Customers | 4,334 |
 | Average Order Value | £475.08 |
-| Return Rate | 16.17% |
+| Return Rate | 15.99% |
 
 ---
 
